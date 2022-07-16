@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import org.junit.Before;
 import org.junit.Test;
 import junit.framework.Assert;
-import proyectoJUNIT.RecetaMia;
 
 
 
