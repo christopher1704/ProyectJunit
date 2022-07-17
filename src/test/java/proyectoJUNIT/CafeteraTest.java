@@ -14,7 +14,7 @@ public class CafeteraTest {
 	public void setUp() throws Exception {;
 	}
 	
-	
+	// verifica el comprar una bebida considerando insumos suficientes para prepararña y dinero suficiente
 	@Test
 	public void ComprarBebidaTrue() throws Exception {
 		// GIVEN
@@ -36,6 +36,7 @@ public class CafeteraTest {
 		//Assert.assertTrue(main.inventario.size()==4);
 	}	
 	
+	// verifica el no poder comprar una bebida si no tiene suficiente dinero
 	@SuppressWarnings("deprecation")
 	@Test
 	public void ComprarBebidaFalseDinero() throws Exception {
@@ -58,6 +59,7 @@ public class CafeteraTest {
 		//Assert.assertTrue(main.inventario.size()==4);
 	}	
 	
+	// verifica el no poder comprar una bebida por falta de insumos
 	@SuppressWarnings("deprecation")
 	@Test
 	public void ComprarBebidaFalseInsumo() throws Exception {
@@ -81,6 +83,7 @@ public class CafeteraTest {
 	}	
 	
 	
+	// verifica el agregar inventario en la cafetera
 	@Test
 	public void AgregarInventario() throws Exception {
 		// GIVEN
@@ -95,6 +98,7 @@ public class CafeteraTest {
 		//Assert.assertTrue(main.inventario.size()==4);
 	}	
 	
+	// verifica si se muestran por pantalla los datos
 	@Test
 	public void VerificarInventario() throws Exception {
 		// GIVEN
@@ -105,7 +109,7 @@ public class CafeteraTest {
 		
 		// WHEN
 		
-		Assert.assertTrue(main.verificarInventario());
+		Assert.assertEquals(true,main.verificarInventario());
 		//Assert.assertTrue(main.inventario.size()==4);
 	}	
 }

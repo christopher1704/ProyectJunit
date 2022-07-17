@@ -54,7 +54,7 @@ public class Main {
 							System.out.println("\nIngrese la bebida que desea:");
 							Scanner in_receta = new Scanner(System.in);
 							option_receta = in_receta.nextInt();
-							// Si se ingresa una opcion no valida
+							// Si se ingresa una opcion no validaesta 
 							if (option_receta > recetas.size()){
 								System.out.println("Ingrese una opcion valida");
 								LogJava.error("Opcion no compatible");

@@ -196,3 +196,23 @@
 [2022-07-16 20:16:57][ ERROR] [Main:164] Cantidad no compatible
 [2022-07-16 20:16:58][ ERROR] [Main:169] No ingresa un numero
 [2022-07-16 20:17:02][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:20:26][ INFO ] [Main:22] Cafetera Prendida
+[2022-07-16 20:20:28][ ERROR] [Main:117] No ingresa un numero
+[2022-07-16 20:20:34][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:20:35][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:20:40][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:20:42][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:20:43][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:20:46][ INFO ] [Main:103] Cafetera Apagada
+[2022-07-16 20:23:46][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:23:46][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:23:46][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:23:46][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:23:53][ ERROR] [Main:164] Cantidad no compatible
+[2022-07-16 20:23:54][ ERROR] [Main:169] No ingresa un numero
+[2022-07-16 20:23:55][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:26:02][ INFO ] [Main:22] Cafetera Prendida
+[2022-07-16 20:26:16][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:26:30][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:26:32][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:26:36][ INFO ] [Main:103] Cafetera Apagada
