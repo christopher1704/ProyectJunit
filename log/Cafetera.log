@@ -130,3 +130,69 @@
 [2022-07-16 01:51:54][ INFO ] [Main:22] Cafetera Prendida
 [2022-07-16 02:02:58][ INFO ] [Main:22] Cafetera Prendida
 [2022-07-16 02:03:18][ ERROR] [Main:117] No ingresa un numero
+[2022-07-16 20:03:02][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:03:02][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:03:16][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:03:16][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:03:22][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:03:53][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:03:53][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:03:57][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:05:44][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:05:44][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:05:49][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:07:43][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:07:43][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:07:43][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:07:50][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:09:23][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:09:23][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:09:23][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:09:29][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:09:52][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:09:52][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:09:52][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:09:57][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:10:08][ INFO ] [Main:22] Cafetera Prendida
+[2022-07-16 20:10:13][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:12:35][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:12:35][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:12:35][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:12:35][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:12:42][ ERROR] [Main:164] Cantidad no compatible
+[2022-07-16 20:12:44][ ERROR] [Main:169] No ingresa un numero
+[2022-07-16 20:12:47][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:14:43][ INFO ] [Main:22] Cafetera Prendida
+[2022-07-16 20:14:46][ ERROR] [Main:117] No ingresa un numero
+[2022-07-16 20:14:46][ ERROR] [Main:117] No ingresa un numero
+[2022-07-16 20:14:46][ ERROR] [Main:117] No ingresa un numero
+[2022-07-16 20:14:46][ ERROR] [Main:117] No ingresa un numero
+[2022-07-16 20:14:52][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:14:52][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:14:52][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:14:52][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:14:58][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:15:27][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:15:27][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:15:27][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:15:27][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:15:32][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:15:53][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:15:53][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:15:53][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:15:53][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:16:02][ INFO ] [Main:173] Inventario agregado
+[2022-07-16 20:16:43][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:16:43][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:16:43][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:16:43][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:16:47][ ERROR] [Main:169] No ingresa un numero
+[2022-07-16 20:16:47][ ERROR] [Main:169] No ingresa un numero
+[2022-07-16 20:16:47][ ERROR] [Main:169] No ingresa un numero
+[2022-07-16 20:16:53][ INFO ] [Main:198] Se verificó inventario
+[2022-07-16 20:16:53][ INFO ] [Main:219] Cafe con Leche vendido/a
+[2022-07-16 20:16:53][ ERROR] [Main:207] Cantidad de dinero insuficiente
+[2022-07-16 20:16:53][ INFO ] [Main:223] Insumos insuficientes para preparar la bebida seleccionada
+[2022-07-16 20:16:57][ ERROR] [Main:164] Cantidad no compatible
+[2022-07-16 20:16:58][ ERROR] [Main:169] No ingresa un numero
+[2022-07-16 20:17:02][ INFO ] [Main:173] Inventario agregado

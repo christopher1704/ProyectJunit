@@ -190,7 +190,7 @@ public class Main {
 			}else if (i == 2) {
 				System.out.println("	Chocolate : " + inventario.get(2));
 
-			}else if (i == 3) {
+			}else{
 				System.out.println("	Azucar    : " + inventario.get(3)+"\n");
 				flag = true;
 			}
@@ -220,7 +220,8 @@ public class Main {
 		} else {
 			System.out.println(
 					"Insumos insifucientes para preparar un/a " + recetas.get(option_receta - 1).nombre + "\n");
-			Log.info("Insumos insuficientes para preparar la bebida seleccionada");
+			LogJava.info("Insumos insuficientes para preparar la bebida seleccionada");
+			
 		}
 
 		
